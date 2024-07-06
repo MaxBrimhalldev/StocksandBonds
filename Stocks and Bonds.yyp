@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"HardWood_Floor","path":"sprites/HardWood_Floor/HardWood_Floor.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
