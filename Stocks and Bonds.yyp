@@ -39,7 +39,9 @@
   },
   "name":"Stocks and Bonds",
   "resources":[
-    {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},},
+    {"id":{"name":"rm_computerConsole","path":"rooms/rm_computerConsole/rm_computerConsole.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"betterFloor","path":"sprites/betterFloor/betterFloor.yy",},},
     {"id":{"name":"bradLeft","path":"sprites/bradLeft/bradLeft.yy",},},
@@ -54,6 +56,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_computerConsole","path":"rooms/rm_computerConsole/rm_computerConsole.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
