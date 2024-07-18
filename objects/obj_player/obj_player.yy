@@ -9,8 +9,8 @@
   "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Humans",
+    "path":"folders/Objects/Humans.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bradRight",
-    "path":"sprites/bradRight/bradRight.yy",
+    "name":"sp_bradRight",
+    "path":"sprites/sp_bradRight/sp_bradRight.yy",
   },
   "spriteMaskId":null,
   "visible":true,

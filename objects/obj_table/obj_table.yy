@@ -8,8 +8,8 @@
   "name":"obj_table",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Furniture",
+    "path":"folders/Objects/Furniture.yy",
   },
   "parentObjectId":null,
   "persistent":false,

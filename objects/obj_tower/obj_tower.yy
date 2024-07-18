@@ -8,8 +8,8 @@
   "name":"obj_tower",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Furniture",
+    "path":"folders/Objects/Furniture.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_tower",
+    "path":"sprites/sp_tower/sp_tower.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

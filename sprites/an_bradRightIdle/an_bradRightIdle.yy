@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"bradRightIdleAnimation",
+  "%Name":"an_bradRightIdle",
   "bboxMode":0,
   "bbox_bottom":15,
   "bbox_left":1,
@@ -30,7 +30,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2cbdab23-fbee-4abd-9071-64e8139c6360","blendMode":0,"displayName":"default","isLocked":false,"name":"2cbdab23-fbee-4abd-9071-64e8139c6360","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"bradRightIdleAnimation",
+  "name":"an_bradRightIdle",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -42,7 +42,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"bradRightIdleAnimation",
+    "%Name":"an_bradRightIdle",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -66,7 +66,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"bradRightIdleAnimation",
+    "name":"an_bradRightIdle",
     "playback":1,
     "playbackSpeed":20.0,
     "playbackSpeedType":0,
@@ -78,34 +78,34 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c0ad8ea8-959c-46eb-bee6-3d80582c7c1a","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c0ad8ea8-959c-46eb-bee6-3d80582c7c1a","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fc32e860-dfba-4aef-906c-8d2055e0594e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7039a88a-424c-4db6-a2b4-f24063dae3d1","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7039a88a-424c-4db6-a2b4-f24063dae3d1","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d247783d-2ce6-41bb-9594-9bec4450fb2e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c5bda77-3793-43c7-b5af-814a225d8fb8","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c5bda77-3793-43c7-b5af-814a225d8fb8","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"48c8ee17-7865-4b71-b68e-011c287c5e6b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8e520b9-d323-43bc-b506-c95b56eb0ace","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8e520b9-d323-43bc-b506-c95b56eb0ace","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"76b7da34-10c0-429b-aafa-6a48dd869c1a","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7622475d-0577-4198-9f01-7a401e1ff845","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7622475d-0577-4198-9f01-7a401e1ff845","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c0a47bbe-370d-4eb1-9a6c-46a6736c231b","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c39a3242-cbcf-452d-b1cf-9dd163e3e899","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c39a3242-cbcf-452d-b1cf-9dd163e3e899","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7482486c-0c63-4a88-be2f-e8e97ce6fdfc","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd43f208-0583-49d5-9910-5c696f03e8e5","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd43f208-0583-49d5-9910-5c696f03e8e5","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7afe67bb-f2e4-41e0-a57d-0aa8e2fb9218","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5bc90252-07ba-4093-9c67-c17ef77b9a55","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5bc90252-07ba-4093-9c67-c17ef77b9a55","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1688bab7-76ca-4d9f-b224-862eb41256c8","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d054b5d-49bb-4e67-936d-7ed34cc7bb81","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0d054b5d-49bb-4e67-936d-7ed34cc7bb81","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"4c276515-15d1-46ba-ac5c-f216b5710ade","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"62ce1915-b1f0-4a0a-92bc-3bc390c957af","path":"sprites/bradRightIdleAnimation/bradRightIdleAnimation.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"62ce1915-b1f0-4a0a-92bc-3bc390c957af","path":"sprites/an_bradRightIdle/an_bradRightIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"edfbec38-70fe-4c0f-afa6-68810dcde5b3","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

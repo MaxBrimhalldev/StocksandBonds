@@ -8,8 +8,8 @@
   "name":"obj_bed",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Furniture",
+    "path":"folders/Objects/Furniture.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_bed",
+    "path":"sprites/sp_bed/sp_bed.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

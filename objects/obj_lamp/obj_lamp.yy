@@ -8,8 +8,8 @@
   "name":"obj_lamp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Furniture",
+    "path":"folders/Objects/Furniture.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_lamp",
+    "path":"sprites/sp_lamp/sp_lamp.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
